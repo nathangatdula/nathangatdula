@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathaniel, an <a href="https://linkedin.com/in/nathaniel-gatdula">IT Professional :) </h1>
+<h1>Hey! I'm Nathaniel, an <a href="https://linkedin.com/in/nathaniel-gatdula">IT Professional :) </h1>
 
 <h2> Information Technology Projects:</h2>
 
